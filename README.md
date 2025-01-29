@@ -1,9 +1,9 @@
 # Hi there 👋
 
-After a period of exploration in the Artistic world, the need for change led me on a introspection's trip.
-I traveled across North America and lived a long chapter in Canada, this experience deeply transformed me.
-Upon returning to France, I chose to reconnect with my roots, reviving one of my lifelong passion : Computer Science.
-Now, since May 2024, I have been engaged in a Full Stack Developer training program at Ada Tech School, and I am eager to dive into the world Tech !
+After a period of exploration in the artistic world, the need for change led me on an introspection trip. 
+I traveled across North America and lived a long chapter in Canada, this experience deeply transformed me. 
+Upon returning to France, I chose to reconnect with my roots, reviving one of my favorite passions: Computer Science. 
+Since May 2024, I have been engaged in a Full Stack Developer training program at Ada Tech School, and I am really excited to dive into the tech world !
 
 10 things about me :
 - 🐺 I have a young Husky named Lúthien
@@ -36,6 +36,5 @@ Languages and tools :
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="40" width="40" src="https://neon.tech/brand/neon-logomark-light-color.svg" />
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-          
           
           
