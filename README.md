@@ -1,9 +1,9 @@
 # Hi there 👋
 
-After a period of exploration in the artistic world, the need for change led me on an introspection trip. 
-I traveled across North America and lived a long chapter in Canada, this experience deeply transformed me. 
-Upon returning to France, I chose to reconnect with my roots, reviving one of my favorite passions: Computer Science. 
-Since May 2024, I have been engaged in a Full Stack Developer training program at Ada Tech School, and I am really excited to dive into the tech world !
+After exploring the artistic world, I felt the need for change and started a journey of self-discovery. 
+I traveled across North America and spent a long time in Canada, an experience that deeply changed me. 
+Back in France, I decided to reconnect with my roots and return to one of my first passions: computing. 
+Now transitioning to a new career, I am eager to join the tech industry while continuing to develop my skills and specialize.
 
 10 things about me :
 - 🐺 I have a young Husky named Lúthien
