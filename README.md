@@ -17,7 +17,7 @@ Now transitioning to a new career, I am eager to join the tech industry while co
 - 🖤 My favorite color is black
 - 🍕 I love eating pizza
 
-Languages and tools :
+Tech Stack :
 <br>
 <br>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
