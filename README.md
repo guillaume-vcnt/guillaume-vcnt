@@ -1,9 +1,9 @@
 # Hi there 👋
 
-After exploring the artistic world, I felt the need for change and started a journey of self-discovery. 
-I traveled across North America and spent a long time in Canada, an experience that deeply changed me. 
-Back in France, I decided to reconnect with my roots and return to one of my first passions: computing. 
-Now transitioning to a new career, I am eager to join the tech industry while continuing to develop my skills and specialize.
+After spending time in the artistic world, I felt the need for a change and embarked on a journey of self-discovery. 
+I traveled across North America and lived in Canada for a while, an experience that deeply changed me. 
+Back in France, I decided to return to my roots and reconnect with one of my first passions: computing. 
+After completing an intensive training at Ada Tech School, I am excited to join the tech industry, keep learning, and continue specializing.
 
 10 things about me :
 - 🐺 I have a young Husky named Lúthien
