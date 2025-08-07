@@ -14,7 +14,7 @@ After working in the artistic field and spending time abroad in the United State
 - 🖤 My favorite color is black
 - 🍕 I love eating pizza
 
-Tech Stack :
+Stack :
 <br>
 <br>
 <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" />
