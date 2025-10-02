@@ -1,6 +1,6 @@
 # Hi there 👋
 
-After working in the artistic field and spending time abroad in the United States and Canada, I came back to France and decided to return to one of my first passions: computer science. After an intensive training with Ada Tech School and Konexio, I want to keep improving my skills and specialize by working in a company.
+After an initial experience in graphic design and retail, followed by international work between the United States and Canada, I decided upon returning to France to reconnect with one of my first passions: computer science, in order to broaden my skills. After several intensive training programs, I now wish to continue progressing and to specialize within a company.
 
 10 things about me :
 - 🐺 I have a young Husky named Lúthien
