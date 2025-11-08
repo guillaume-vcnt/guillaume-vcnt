@@ -1,6 +1,7 @@
 # Hi there 👋
 
-After an initial experience in graphic design and retail, followed by international work between the United States and Canada, I decided upon returning to France to reconnect with one of my first passions: computer science, in order to broaden my skills. After several intensive training programs, I now wish to continue progressing and to specialize within a company.
+After an early career in graphic design and retail, and international experience between the United States and Canada, I decided to reconnect with one of my first passions: technology.
+I’m now working as a Cloud Specialist in Business Applications.
 
 10 things about me :
 - 🐺 I have a young Husky named Lúthien
