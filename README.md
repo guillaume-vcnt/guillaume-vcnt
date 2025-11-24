@@ -1,7 +1,6 @@
 # Hi there 👋
 
-After gaining initial experience in graphic design and retail, and spending time abroad in the United States and Canada, I chose to return to one of my earliest passions : computing, while broadening my skill set. 
-Following several intensive training programs, I’m now working as a Cloud Specialist in Business Applications.
+After initial experience in graphic design and retail, followed by time abroad in the United States and Canada, I chose to reconnect with computer science and broaden my skill set upon returning to France. After completing several intensive training programs, I’m now working as a Cloud Specialist in Business Applications.
 
 10 things about me :
 - 🐺 I have a young Husky named Lúthien
